@@ -17,3 +17,4 @@ Welcome to my Github! I am a student developer, and a technology enthusiast with
 | Project | Description |
 |---------|-------------|
 | [Parking-Management](https://github.com/Kozambiq/Parking-Management-) | OOP based project that is used for internal system of a huge Parking Lot. |
+| [School-Admin-System](https://github.com/Kozambiq/School-Admin) | OOP mock project that recreates a School Admin System (unfinished). |
