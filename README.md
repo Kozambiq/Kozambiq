@@ -32,15 +32,6 @@ Freelance Full-Stack Developer, and self-taught tinkerer who likes building real
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-*(Replace `YOUR_USERNAME` with your actual GitHub username.)*
-
----
-
 ## 📫 Reach Me
 
-- 🌐 Freelance inquiries: *add your contact link/email here*
+- 🌐 Freelance inquiries: *cyrussgayola1@gmail.com*
