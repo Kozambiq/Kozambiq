@@ -1,20 +1,46 @@
-# 👋 Hello, I am Kozambiq
+# Hi, I'm Cyruss 👋
 
-Welcome to my Github! I am a student developer, and a technology enthusiast with a deep passion for Programming, CyberSecurtiy, System networks, and all things that technology can offer.
+Freelance Full-Stack Developer, and self-taught tinkerer who likes building real systems rather than toy demos.
 
----
-
-## 😎 About Me
-- 🧑🏽‍🎓 **Developer & Student:** Always learning and building.
-- 🧠 **Logical Thinker:** I love dissecting problems, logics, and algorithms carefully adn approaching challenges methodically.
-- ⚒️ **Project Building:** I enjoy making small side projects to sharpen my skills, teach me new foundations, and solve problems.
-- 💡 **Tech Explorer:** I take interest in Machine Learning, Computer Engineering, Object-Oriented Programming, Data structure and Algorithms and so much more.
+-    Building Mobile and Web Applications for different clients
+- 💻 Freelance web design for local Philippine businesses (demo-first cold outreach)
+- 🔐 Learning ethical hacking on the side (TryHackMe, VulnHub, Kali on CachyOS/Hyprland)
+- 🐧 Running Arch-based Linux daily
 
 ---
 
-## ⭐ Featured Project
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [Parking-Management](https://github.com/Kozambiq/Parking-Management-) | OOP based project that is used for internal system of a huge Parking Lot. |
-| [School-Admin-System](https://github.com/Kozambiq/School-Admin) | OOP mock project that recreates a School Admin System (unfinished). |
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Arc Dormitory Management System]([https://github.com/](https://github.com/Kozambiq/dormitory-management-demo/tree/main)) | Dormitory management platform for tenants and owners — bookings, payments, security-first design | Next.js, Supabase, PayMongo, Tailwind CSS |
+| [Truck Servicing System](https://github.com/Kozambiq/truck-service-company) | "Smart" automated truck repair & maintenance system with separate staff and client sites, hand-built DSA modules | Node.js, Express, MariaDB |
+| [Truck Parts System](https://github.com/) | Inventory & sales management for a truck parts business — manual BST/Trie/Hash Table implementations, no built-in search/sort | HTML, CSS, JavaScript |
+| [Halimaw Burger POS System](https://github.com/) | Restaurant management app — POS, kitchen queue, inventory, AI-powered sales reports | Java, JavaFX, MariaDB/MySQL, Groq API |
+| [Build The Great Wall](https://github.com/) | Roblox game where players gather and carry stones to build the Great Wall | Roblox Studio, Luau (ModuleScripts, DataStore) |
+
+*(Swap in the real repo links above — placeholders are marked `https://github.com/`.)*
+
+---
+
+## 🧰 Tech I Work With
+
+**Languages:** JavaScript, Java, HTML/CSS, Luau
+**Frameworks & Tools:** Next.js, Node.js/Express, JavaFX, Tailwind CSS
+**Databases:** Supabase, MariaDB, MySQL
+**Other:** Git, Linux (Arch/CachyOS + Hyprland), Kali Linux, VirtualBox
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+*(Replace `YOUR_USERNAME` with your actual GitHub username.)*
+
+---
+
+## 📫 Reach Me
+
+- 🌐 Freelance inquiries: *add your contact link/email here*
