@@ -13,7 +13,7 @@ Freelance Full-Stack Developer, and self-taught tinkerer who likes building real
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [Arc Dormitory Management System]([https://github.com/](https://github.com/Kozambiq/dormitory-management-demo/tree/main)) | Dormitory management platform for tenants and owners — bookings, payments, security-first design | Next.js, Supabase, PayMongo, Tailwind CSS |
+| [Arc Dormitory Management System](https://github.com/](https://github.com/Kozambiq/dormitory-management-demo/tree/main)) | Dormitory management platform for tenants and owners — bookings, payments, security-first design | Next.js, Supabase, PayMongo, Tailwind CSS |
 | [Truck Servicing System](https://github.com/Kozambiq/truck-service-company) | "Smart" automated truck repair & maintenance system with separate staff and client sites, hand-built DSA modules | Node.js, Express, MariaDB |
 | [Truck Parts System](https://github.com/) | Inventory & sales management for a truck parts business — manual BST/Trie/Hash Table implementations, no built-in search/sort | HTML, CSS, JavaScript |
 | [Halimaw Burger POS System](https://github.com/) | Restaurant management app — POS, kitchen queue, inventory, AI-powered sales reports | Java, JavaFX, MariaDB/MySQL, Groq API |
